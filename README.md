@@ -1,0 +1,2 @@
+# IPL-data-Analysis-and-extract-various-insights-using-different-graphs
+This project involves analyzing the Indian Premier League (IPL) cricket dataset to uncover insights and trends related to teams, players, matches, and seasons. Using Python and its powerful data analysis and visualization libraries, the project explores various aspects of IPL data through descriptive statistics and visualizations.
